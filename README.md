@@ -1,8 +1,9 @@
 # Picture Of The Day
 
 This module randomly selects a picture to be displayed as banner of Emacs' dashboard.
-
 It does so by advising function `dashboard-choose-banner`.
+
+*NOTE*: The picture may actually change every time the dashboard is refreshed.
 
 ## Installation
 
