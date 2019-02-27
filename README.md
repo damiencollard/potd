@@ -5,6 +5,8 @@ It does so by advising function `dashboard-choose-banner`.
 
 *NOTE*: The picture may actually change every time the dashboard is refreshed.
 
+![Screenshot](screenshot.png?raw=true "Example POTD")
+
 ## Installation
 
 Put in a directory that appears in your Emacs' `load-path`.
